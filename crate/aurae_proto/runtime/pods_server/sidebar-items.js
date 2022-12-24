@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["PodsServer",""]],"trait":[["Pods","Generated trait containing gRPC methods that should be implemented for use with PodsServer."]]};

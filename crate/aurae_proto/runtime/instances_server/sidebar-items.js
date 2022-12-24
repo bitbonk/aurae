@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["InstancesServer",""]],"trait":[["Instances","Generated trait containing gRPC methods that should be implemented for use with InstancesServer."]]};
